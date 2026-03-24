@@ -1,2 +1,2 @@
--> 進入 http://fickle-tempest.picoctf.net:55425/robots.txt (原網址 + robots.txt)
+-> open http://fickle-tempest.picoctf.net:55425/robots.txt (原網址 + robots.txt)  
 -> change into : http://fickle-tempest.picoctf.net:55425/cc6b1.html
