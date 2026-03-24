@@ -1,1 +1,1 @@
-decoder : https://www.digikey.tw/zh/resources/conversion-calculators/conversion-calculator-number-conversion (base 16 to 10)
+-> decoder : https://www.digikey.tw/zh/resources/conversion-calculators/conversion-calculator-number-conversion (base 16 to 10)
