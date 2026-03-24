@@ -1,0 +1,1 @@
+-> decoder : https://www.digikey.tw/zh/resources/conversion-calculators/conversion-calculator-number-conversion (base 10 to 2)
