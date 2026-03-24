@@ -1,2 +1,2 @@
-wget https://challenge-files.picoctf.net/c_wily_courier/94960d0ab62213382ae31be6ee984974308794c01d681308f5094b9ff30270d6/flag
+wget https://challenge-files.picoctf.net/c_wily_courier/94960d0ab62213382ae31be6ee984974308794c01d681308f5094b9ff30270d6/flag  
 cat https://challenge-files.picoctf.net/c_wily_courier/94960d0ab62213382ae31be6ee984974308794c01d681308f5094b9ff30270d6/flag
