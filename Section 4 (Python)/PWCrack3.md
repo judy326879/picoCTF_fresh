@@ -20,4 +20,7 @@ for pw in pos_pw_list:
     if test_hash == user_pw:
         print(pw)
 ```
+python3 level3.py  
+-> run file  
+2295  
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/2fb3fe44-6681-4f53-8106-9569aa2e8217" />
