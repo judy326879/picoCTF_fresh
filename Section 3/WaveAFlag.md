@@ -2,3 +2,4 @@ wget https://challenge-files.picoctf.net/c_wily_courier/70013ed41d4cfe2bb4862847
 chmod +x warm  
 -> give permission  
 ./warm -h    
+-> ./ 當前目錄
